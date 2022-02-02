@@ -1,8 +1,8 @@
 [
   {
     "name": "Tridat",
-    "url": "https://www.tridat.com.ar",
-    "icon": "https://favicons.githubusercontent.com/www.tridat.com.ar",
+    "url": "https://tridat.com.ar",
+    "icon": "https://favicons.githubusercontent.com/tridat.com.ar",
     "slug": "tridat",
     "status": "up",
     "uptime": "100.00%",
@@ -19,28 +19,28 @@
   },
   {
     "name": "Tridat API",
-    "url": "https://www.tridat.ml",
-    "icon": "https://favicons.githubusercontent.com/www.tridat.ml",
+    "url": "https://tridat.ml",
+    "icon": "https://favicons.githubusercontent.com/tridat.ml",
     "slug": "tridat-api",
-    "status": "down",
-    "uptime": "7.35%",
-    "uptimeDay": "7.35%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "7.35%",
-    "uptimeYear": "7.35%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.55%",
+    "uptimeDay": "2.55%",
+    "uptimeWeek": "2.55%",
+    "uptimeMonth": "2.55%",
+    "uptimeYear": "2.55%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 3
     }
   },
   {
     "name": "Tridat Testing",
-    "url": "https://www.tridat.cf",
-    "icon": "https://favicons.githubusercontent.com/www.tridat.cf",
+    "url": "https://tridat.cf",
+    "icon": "https://favicons.githubusercontent.com/tridat.cf",
     "slug": "tridat-testing",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 804,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 865,
+    "timeDay": 865,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {}
   }
 ]
