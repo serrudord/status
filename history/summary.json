@@ -40,9 +40,9 @@
     "url": "https://tridat.cf",
     "icon": "https://favicons.githubusercontent.com/tridat.cf",
     "slug": "tridat-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1535,
     "timeMonth": 1535,
     "timeYear": 1535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   }
 ]
