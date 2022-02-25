@@ -4,9 +4,9 @@
     "url": "https://tridat.com.ar",
     "icon": "https://favicons.githubusercontent.com/tridat.com.ar",
     "slug": "tridat-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 407,
     "timeMonth": 381,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "Tridat API",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/tridat.cf",
     "slug": "tridat-testing",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.84%",
     "uptimeDay": "94.99%",
     "uptimeWeek": "83.12%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "94.66%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "94.84%",
     "time": 1778,
     "timeDay": 933,
     "timeWeek": 1386,
