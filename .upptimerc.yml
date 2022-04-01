@@ -9,8 +9,8 @@ sites:
   - name: Tridat API
     url: https://tridat.ml
 
-  - name: Tridat Testing
-    url: https://tridat.cf
+#  - name: Tridat Testing
+#    url: https://tridat.cf
 
 assignees:
   - serrfranco
