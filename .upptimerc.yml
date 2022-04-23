@@ -6,8 +6,8 @@ sites:
   - name: Tridat Web
     url: https://tridat.com.ar
 
-  - name: Tridat API
-    url: https://tridat.ml
+#  - name: Tridat API
+#    url: https://tridat.ml
 
 #  - name: Tridat Testing
 #    url: https://tridat.cf
